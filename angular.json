@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "virago"
+    }
+  },
+  "defaultProject": "virago",
+  "cli": {
+    "analytics": "dd1e3b62-267c-4726-b0a6-d596f99c957a"
+  }
 }
